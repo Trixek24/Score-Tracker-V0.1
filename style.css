@@ -1,0 +1,21 @@
+#Score_1{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: outset;
+    border-color: red;
+    
+}
+
+#Score_2{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: outset;
+    border-color: blue;
+}
+
+
+
